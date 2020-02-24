@@ -8,7 +8,7 @@ where
 [LENGTH] = The number of allowed characters
 [FILENAME] Output file.
 example:
-tweetspy etum_dev 8
+tweetspy etum_dev 8 twitterwordlist
 - TweetSpy - Running ...
 ###
-- TweetSpy - Finished, written to file with the size [X MB]
+- TweetSpy - Finished, written to file twitterwordlist with the size [X MB]

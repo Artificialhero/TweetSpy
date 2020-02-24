@@ -7,7 +7,9 @@ where
 [ACCOUNT] = Username, as presented in the url.
 [LENGTH] = The number of allowed characters
 [FILENAME] Output file.
-example:
+
+- example:
+
 tweetspy etum_dev 8 twitterwordlist
 - TweetSpy - Running ...
 ###
